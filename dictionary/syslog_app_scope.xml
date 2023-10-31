@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="918bb411b9103110d0adbb64e3a1e9a0" extends="syslog" label="App Log Entry" max_length="40" name="syslog_app_scope" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="x_58872_needit_name" type="string"/>
+    </element>
+</database>
